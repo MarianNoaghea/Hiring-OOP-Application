@@ -1,0 +1,78 @@
+{
+  "Google": [
+    {
+      "noPositions": "1",
+      "numeCompanie": "Google",
+      "numeJob": "Software Developer Engineer",
+      "salariu": "10000",
+      "constrAnAbsolvire": {
+        "min": "2002",
+        "max": "2020"
+      },
+      "constrAniExperienta": {
+        "min": "2",
+        "max": "6"
+      },
+      "constrMedieAcademica": {
+        "min": "8",
+        "max": "null"
+      }
+    },
+    {
+      "noPositions": "1",
+      "numeCompanie": "Google",
+      "numeJob": "Software Developer Engineer Intern",
+      "salariu": "5000",
+      "constrAnAbsolvire": {
+        "min": "null",
+        "max": "null"
+      },
+      "constrAniExperienta": {
+        "min": "0",
+        "max": "2"
+      },
+      "constrMedieAcademica": {
+        "min": "9",
+        "max": "null"
+      }
+    }
+  ],
+  "Amazon": [
+    {
+      "noPositions": "1",
+      "numeCompanie": "Amazon",
+      "numeJob": "Software Developer Engineer",
+      "salariu": "12000",
+      "constrAnAbsolvire": {
+        "min": "2014",
+        "max": "2020"
+      },
+      "constrAniExperienta": {
+        "min": "1",
+        "max": "null"
+      },
+      "constrMedieAcademica": {
+        "min": "9",
+        "max": "null"
+      }
+    },
+    {
+      "noPositions": "1",
+      "numeCompanie": "Amazon",
+      "numeJob": "Software Developer Engineer Intern",
+      "salariu": "6000",
+      "constrAnAbsolvire": {
+        "min": 0,
+        "max": "null"
+      },
+      "constrAniExperienta": {
+        "min": "0",
+        "max": "2"
+      },
+      "constrMedieAcademica": {
+        "min": "9.35",
+        "max": "null"
+      }
+    }
+  ]
+}
